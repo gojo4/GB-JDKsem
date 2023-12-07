@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="559c9fa6-bca7-43a0-a8e0-255d492b5c6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDK_Seminar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/GeneralMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/InterSeminarMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Actions/DateFormater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Actions/LoadFromCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Actions/SaveToCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Models/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Seminar1Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/ServerRun/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/ServerRun/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/ServerRun/ServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/ServerRun/ServerRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Window/GameWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Window/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Window/SettingsWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/Seminar2Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/Background.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/CanvasRepaintListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/Interactable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/MainCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/BackEnder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/BackendAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/FrontAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/FrontEnder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/FullStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/Homework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/Seminar3Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/Exceptions/MyArraysSizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/Exceptions/MyArraysTypeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/Exceptions/MyDivideByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task2/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task2/ProgramCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task3/ArraysComporator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task4/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/MegaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/Seminar3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/Task" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ZDWgswBjXgXftGlssIPzDHCJVu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="559c9fa6-bca7-43a0-a8e0-255d492b5c6c" name="Changes" comment="" />
+      <created>1701957247123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701957247123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

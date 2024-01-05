@@ -1,9 +1,11 @@
-package UI;
+package main.java.UI;
 
 
 import lesson1.Seminar1Menu;
 import lesson2.Seminar2Menu;
 import lesson3.Seminar3Menu;
+import lesson4.homework4.Homework4Menu;
+import main.java.lesson5.homework5.Homework5;
 
 import javax.swing.*;
 import java.awt.*;
@@ -19,6 +21,8 @@ public class GeneralMenu extends JFrame {
     private final JButton BTN_SEMINAR_1 = new JButton("Seminar 1");
     private final JButton BTN_SEMINAR_2 = new JButton("Seminar 2");
     private final JButton BTN_SEMINAR_3 = new JButton("Seminar 3");
+    private final JButton BTN_HOMEWORK_4 = new JButton("Homework 4");
+    private final JButton BTN_HOMEWORK_5 = new JButton("Homework 5");
     private final JButton BTN_EXIT = new JButton("Exit program");
 
     public void generalMenu(){
@@ -36,6 +40,8 @@ public class GeneralMenu extends JFrame {
         panelTask.add(BTN_SEMINAR_1);
         panelTask.add(BTN_SEMINAR_2);
         panelTask.add(BTN_SEMINAR_3);
+        panelTask.add(BTN_HOMEWORK_4);
+        panelTask.add(BTN_HOMEWORK_5);
         add(panelTask, BorderLayout.CENTER);
 
         setVisible(true);
@@ -68,6 +74,17 @@ public class GeneralMenu extends JFrame {
             public void actionPerformed(ActionEvent e) {
                 new Seminar3Menu().semMenu();
                 setVisible(false);
+            }
+        });
+
+        BTN_HOMEWORK_4.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                new Homework4Menu().start();
+            }
+        });
+        BTN_HOMEWORK_5.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                new Homework5().start();
             }
         });
     }

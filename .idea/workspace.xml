@@ -5,58 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="559c9fa6-bca7-43a0-a8e0-255d492b5c6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDK_Seminar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/GeneralMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/InterSeminarMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Actions/DateFormater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Actions/LoadFromCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Actions/SaveToCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Chat/Models/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Seminar1Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/ServerRun/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/ServerRun/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/ServerRun/ServerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/ServerRun/ServerRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Window/GameWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Window/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Window/SettingsWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Seminar2Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/Background.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/CanvasRepaintListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/Interactable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/MainCanvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/lecture2/Sprite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/BackEnder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/BackendAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/FrontAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/FrontEnder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/FullStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/seminar2/Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Seminar3Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/Exceptions/MyArraysSizeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/Exceptions/MyArraysTypeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/Exceptions/MyDivideByZeroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task2/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task2/ProgramCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task3/ArraysComporator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task4/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/task4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/MegaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/Seminar3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/Task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/EmployeeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Homework4Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Homework4Tread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Phones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/homework5/Dinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/homework5/Homework5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/homework5/Philosopher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/seminar5/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/seminar5/Program3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/Doors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/FastBigDecimalPercentage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/Homework6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/Prizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/RandomEnumGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/GeneralMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UI/GeneralMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/InterSeminarMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UI/InterSeminarMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Chat/Actions/DateFormater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chat/Actions/DateFormater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Chat/Actions/LoadFromCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chat/Actions/LoadFromCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Chat/Actions/SaveToCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chat/Actions/SaveToCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Chat/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chat/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Chat/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chat/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Chat/Models/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chat/Models/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Seminar1Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Seminar1Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/ServerRun/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/ServerRun/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/ServerRun/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/ServerRun/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/ServerRun/ServerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/ServerRun/ServerListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/ServerRun/ServerRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/ServerRun/ServerRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Window/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Window/GameWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Window/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Window/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Window/SettingsWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Window/SettingsWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/Seminar2Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/Seminar2Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/lecture2/Background.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/lecture2/Background.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/lecture2/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/lecture2/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/lecture2/CanvasRepaintListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/lecture2/CanvasRepaintListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/lecture2/Interactable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/lecture2/Interactable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/lecture2/MainCanvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/lecture2/MainCanvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/lecture2/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/lecture2/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/lecture2/Sprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/lecture2/Sprite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/seminar2/BackEnder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/BackEnder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/seminar2/BackendAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/BackendAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/seminar2/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/seminar2/FrontAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/FrontAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/seminar2/FrontEnder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/FrontEnder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/seminar2/FullStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/FullStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/seminar2/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/seminar2/Homework2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/Seminar3Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/Seminar3Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/Exceptions/MyArraysSizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework3/Exceptions/MyArraysSizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/Exceptions/MyArraysTypeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework3/Exceptions/MyArraysTypeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/Exceptions/MyDivideByZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework3/Exceptions/MyDivideByZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/task2/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework3/task2/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/task2/ProgramCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework3/task2/ProgramCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/task3/ArraysComporator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework3/task3/ArraysComporator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework3/task3/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/task4/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework3/task4/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/homework3/task4/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/seminar3/MegaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/MegaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/seminar3/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/seminar3/Seminar3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/Seminar3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/seminar3/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/Task" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +90,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../maven/apache-maven-3.9.6" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
   <component name="ProjectId" id="2ZDWgswBjXgXftGlssIPzDHCJVu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -81,20 +114,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/maven/apache-maven-3.9.6",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "two.files.diff.last.used.folder": "C:/maven/apache-maven-3.9.6"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -104,7 +140,35 @@
       <option name="presentableId" value="Default" />
       <updated>1701957247123</updated>
     </task>
+    <task id="LOCAL-00001" summary="init:seminar1, homework1">
+      <created>1701965916920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701965916920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init:seminar2, homework2 - program interface">
+      <created>1701965984113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701965984113</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init:seminar3, homework3 - general program">
+      <created>1701966068842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701966068842</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init:seminar1, homework1" />
+    <MESSAGE value="init:seminar2, homework2 - program interface" />
+    <MESSAGE value="init:seminar3, homework3 - general program" />
+    <option name="LAST_COMMIT_MESSAGE" value="init:seminar3, homework3 - general program" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

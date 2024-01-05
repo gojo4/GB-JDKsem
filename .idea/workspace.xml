@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="559c9fa6-bca7-43a0-a8e0-255d492b5c6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/ConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/EmployeeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Homework4Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Homework4Tread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Phones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/Application.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/homework5/Dinner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/homework5/Homework5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/homework5/Philosopher.java" afterDir="false" />
@@ -26,11 +17,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/Homework6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/Prizes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/homework6/RandomEnumGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/GeneralMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UI/GeneralMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/InterSeminarMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UI/InterSeminarMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson1/Chat/Actions/DateFormater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chat/Actions/DateFormater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson1/Chat/Actions/LoadFromCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chat/Actions/LoadFromCSV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson1/Chat/Actions/SaveToCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chat/Actions/SaveToCSV.java" afterDir="false" />
@@ -74,6 +60,15 @@
       <change beforePath="$PROJECT_DIR$/src/lesson3/seminar3/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/MyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson3/seminar3/Seminar3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/Seminar3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson3/seminar3/Task" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/seminar3/Task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UI/GeneralMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UI/GeneralMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Actions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/homework4/ConsoleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/ConsoleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/homework4/EmployeeBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/EmployeeBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Homework4Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Homework4Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Homework4Tread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Homework4Tread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Phones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework4/Phones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson4/seminar4/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,14 +156,22 @@
       <option name="project" value="LOCAL" />
       <updated>1701966068842</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init:seminar4, homework4 - Collections">
+      <created>1704469867603</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704469867603</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init:seminar1, homework1" />
     <MESSAGE value="init:seminar2, homework2 - program interface" />
     <MESSAGE value="init:seminar3, homework3 - general program" />
-    <option name="LAST_COMMIT_MESSAGE" value="init:seminar3, homework3 - general program" />
+    <MESSAGE value="init:seminar4, homework4 - Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="init:seminar4, homework4 - Collections" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

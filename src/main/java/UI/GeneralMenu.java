@@ -1,10 +1,10 @@
 package main.java.UI;
 
 
-import lesson1.Seminar1Menu;
-import lesson2.Seminar2Menu;
-import lesson3.Seminar3Menu;
-import lesson4.homework4.Homework4Menu;
+import main.java.lesson1.Seminar1Menu;
+import main.java.lesson2.Seminar2Menu;
+import main.java.lesson3.Seminar3Menu;
+import main.java.lesson4.homework4.Homework4Menu;
 import main.java.lesson5.homework5.Homework5;
 
 import javax.swing.*;

@@ -1,6 +1,6 @@
 package main.java.lesson3.homework3.task2;
 
-import lesson3.homework3.Exceptions.MyDivideByZeroException;
+import main.java.lesson3.homework3.Exceptions.MyDivideByZeroException;
 
 public class Calc {
     public static <A extends Number, B extends Number> double sum(A num1, B num2) {

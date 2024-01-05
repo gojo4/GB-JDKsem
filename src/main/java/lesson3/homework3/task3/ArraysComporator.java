@@ -1,7 +1,7 @@
 package main.java.lesson3.homework3.task3;
 
-import lesson3.homework3.Exceptions.MyArraysSizeException;
-import lesson3.homework3.Exceptions.MyArraysTypeException;
+import main.java.lesson3.homework3.Exceptions.MyArraysSizeException;
+import main.java.lesson3.homework3.Exceptions.MyArraysTypeException;
 
 import java.util.Arrays;
 
